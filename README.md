@@ -42,7 +42,7 @@
 <img height="165" src="https://github-readme-stats-gray-eta-67.vercel.app/api?username=FerMogollon&show_icons=true&theme=tokyonight" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FerMogollon&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerMogollon&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-gray-eta-67.vercel.app/api/top-langs/?username=FerMogollon&layout=compact&theme=tokyonight" />
 
 </div>
 
