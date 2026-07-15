@@ -1,1 +1,1 @@
-![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerMogollon&show_icons=true&theme=radical)
+![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerMogollon&show_icons=true&theme=nord)
